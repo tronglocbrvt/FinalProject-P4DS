@@ -1,0 +1,4 @@
+Context: The motivation of this study is to forecast future cases of coronavirus in France
+
+License: CC0: Public Domain
+Data extracted from : https://data.europa.eu/data/datasets/5f69ecb155c43420918410b8?locale=en
