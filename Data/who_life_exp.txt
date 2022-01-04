@@ -1,0 +1,3 @@
+Licence: CC0: Public Domain, dataset công khai cho phép sử dụng. Dataset được đăng bởi tác giả MMattson trên Kaggle: https://www.kaggle.com/mmattson/who-national-life-expectancy
+Nội dung: các yếu tố ảnh hưởng đến tuổi thọ của con người trên 183 quốc gia từ 2000-2016
+Cách lấy dữ liệu: từ 2 nguồn là GHO - Global Health Observatory (sử dụng API) và UNESCO (trên trang web dữ liệu Thống kê về Giáo dục các Quốc gia của Viện thống kê UNESCO)
