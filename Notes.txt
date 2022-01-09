@@ -1,0 +1,4 @@
+1. Kiểm tra để chắc chắn không có sự bất thường trong 4 cột: country, country_code, region và năm (nghĩa là mỗi nước phải cùng mã định danh, cùng khu vực và có 17 năm từ 2000 đến 2016).
+2. Khảo sát life_expect, region, vẽ biểu đồ theo từng năm, xem có gì khác thường không. 
+4. Khảo sát tỉ lệ tử ở người lớn và trẻ em xem có gì khác thường không? 
+4. Mối tương quan giữa các cột
