@@ -1,3 +1,0 @@
-Licence: CC0: Public Domain, dataset công khai cho phép sử dụng. Dataset được đăng bởi tác giả Stefano Leone trên Kaggle: https://www.kaggle.com/stefanoleone992/filmtv-movies-dataset
-Nội dung: Chứa danh sách thông tin về 37711 bộ phim trên FilmTV.it.
-Cách lấy dữ liệu: được scrape từ website https://www.filmtv.it từ ngày 10/09/2021
