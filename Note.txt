@@ -1,0 +1,5 @@
+infant_mort    ------     une_infant   => Kha dong deu
+life_expect    ------     une_life (Life expectancy at birth, total (years))    => Cung kha dong deu
+gni_capita     ------     une_gni   => Ti le thieu cua gni_capita la >20%
+
+=> Giu 3 cot cua Unesco, bo 3 cot con lai
