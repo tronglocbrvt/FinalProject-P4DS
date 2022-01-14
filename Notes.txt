@@ -2,3 +2,19 @@
 2. Khảo sát life_expect, region, vẽ biểu đồ theo từng năm, xem có gì khác thường không. 
 4. Khảo sát tỉ lệ tử ở người lớn và trẻ em xem có gì khác thường không? 
 4. Mối tương quan giữa các cột
+
+
+
+--- Questions ---- VIETNAM
+1. Các khu vực và các quốc gia trên thế giới có tuổi thọ biến động như thế nào từ năm 2000 đến năm 2016?
+	+ Top 5 quốc gia
+		+ Bước 1: Group
+		+ Bước 2: Visualization
+	+ ... 
+	
+2. Các vấn đề về y tế, kinh tế, xã hội có tác động như thế nào đến tuổi thọ của các quốc gia và các khu vực trên thế giới trong những năm 2000 đến năm 2016?
+	+ Y tế: Khảo sát sự tác động của tỷ lệ tiêm chủng (viêm gan, sởi, bại liệt, bạch hầu), mật độ bác sĩ. 
+	+ Kinh tế: Khảo sát sự tác động của tổng thu nhập quốc dân, chi tiêu của chính phủ cho y tế, chi phí dân bỏ ra cho y tế, chi tiêu cho giáo dục giới tính.
+	+ Xã hội: Khảo sát sự tác động của tiêu thụ rượu, tỷ lệ dùng nước sạch, HIV/AIDS, dân số.
+
+3. Các vấn đề về y tế, kinh tế, xã hội ở các quốc gia đang phát triển và các quốc gia phát triển có gì khác biệt không? Nếu có thì sự khác biệt này như thế nào? => Recommendation (nhận xét)
