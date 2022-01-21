@@ -1,0 +1,13 @@
+- Bước 1: Kiểm tra đã đầy đủ các file cần thiết để chạy chương trình (bao gồm file dữ liệu và file notebook): 
+	02_18120197_19120068
+	├── Data
+	│   ├── DataForQuestion
+	│   │   └── Life Expectancy Data.csv
+	│   └── who_life_exp.csv
+	└── 18120197_19120068.ipynb
+- Bước 2: Di chuyển đến thư mục làm việc 02_18120197_19120068/
+- Bước 3: Kích hoạt môi trường min_ds-env:
+	conda activate min_ds-env
+- Buớc 4: Mở Jupyter Notebook bằng dòng lệnh: 
+	jupyter notebook
+- Bước 5: Mở file 18120197_19120068.ipynb và chọn Kernel - Restart & Run All 
